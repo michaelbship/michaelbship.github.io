@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8798fe90-064d-4782-b513-fe4a8ed75c5d" name="Default Changelist" comment="" />
+    <list default="true" id="8798fe90-064d-4782-b513-fe4a8ed75c5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/background-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/background-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/background-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/background-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/one-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/single-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/background-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/background-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/background-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/background-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/one-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_alternative/single-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-post.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +50,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/assets/styles/app/_navbar.scss" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/resume.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/assets/styles/style.css" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/one-page.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1vn0toi0QGzmti9Uat9i9NcNnkX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +76,12 @@
       <updated>1627182763774</updated>
       <workItem from="1627182766522" duration="1412000" />
       <workItem from="1627455854636" duration="90000" />
-      <workItem from="1627458437522" duration="3819000" />
+      <workItem from="1627458437522" duration="4285000" />
+      <workItem from="1627532512271" duration="6000" />
+      <workItem from="1627532786284" duration="156000" />
+      <workItem from="1627532945174" duration="8000" />
+      <workItem from="1627533145156" duration="68000" />
+      <workItem from="1627533216425" duration="540000" />
     </task>
     <servers />
   </component>
