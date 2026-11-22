@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <title>Comail</title>
+  <style>
+    :root { color-scheme: light; font: 100%/1.65 system-ui, sans-serif; background: #faf9f6; color: #252d2e; }
+    body { max-width: 41rem; margin: auto; padding: clamp(2rem, 8vw, 6rem) 1.5rem; }
+    h1 { font-size: clamp(1.9rem, 5vw, 2.75rem); line-height: 1.15; letter-spacing: -.03em; }
+    h2 { margin: 2em 0 .3em; font-size: 1.15rem; }
+    p { margin: .6em 0 1em; }
+    a { color: #185c65; text-underline-offset: .18em; }
+    a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+    footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #cbd3d0; }
+    footer nav { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Comail</h1>
+    <p>This personal desktop installation of Comail, an open-source email
+      client from NextOSP, connects to Gmail to read, search, organize, and
+      send mail.</p>
+    <h2>Why Comail asks for Gmail access</h2>
+    <p>When you connect a mailbox, the desktop app opens Google’s consent
+      screen in your browser. Comail uses your email address to identify the
+      mailbox and your profile name as the sender name. It uses IMAP to sync
+      messages and folders, and SMTP to send mail through Gmail.</p>
+    <p>Google requires full mail access for this connection. That permission
+      includes reading, composing, sending, and permanently deleting mail.
+      Comail keeps a copy of the mailbox on the computer so you can search
+      and read messages offline.</p>
+  </main>
+  <footer>
+    <nav aria-label="More information">
+      <a href="privacy/">Privacy policy</a>
+    </nav>
+  </footer>
+</body>
+</html>
